@@ -31,7 +31,7 @@ Before you begin, ensure you have Node.js installed on your machine. You can dow
 1. Start the script:
 
    ```bash
-   node app.js
+   node index.js
    ```
 
 2. Follow the prompts:
